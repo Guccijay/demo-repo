@@ -1,1 +1,1 @@
-hi ,message
+UGOCHI hi ,message, hello
